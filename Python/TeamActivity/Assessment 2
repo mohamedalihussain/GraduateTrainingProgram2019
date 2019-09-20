@@ -1,0 +1,34 @@
+Write a Python program to combine each line from first file with the corresponding line in second file
+
+Count new lines in file
+
+Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters.
+
+
+Sample String : 'The quick Brow Fox'
+Expected Output : 
+No. of Upper case characters : 3
+No. of Lower case Characters : 12
+
+
+
+Write a Python function that takes a list and returns a new list with unique elements of the first list. Without using set
+Sample List : [1,2,3,3,3,3,4,5]
+Unique List : [1, 2, 3, 4, 5]
+
+
+
+
+Write a Python function to check whether a string is a pangram or not. 
+
+
+Note : Pangrams are words or sentences containing every letter of the alphabet at least once.
+For example : "The quick brown fox jumps over the lazy dog"
+
+
+
+Write a Python program that accepts a hyphen-separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically. 
+
+
+Sample Items : green-red-yellow-black-white
+Expected Result : black-green-red-white-yellow
