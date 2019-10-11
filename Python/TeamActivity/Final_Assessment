@@ -1,0 +1,111 @@
+1.Create user defined exceptino for capturing image files which is .jpg, .jpeg, .png etc.,
+
+ 
+
+Example:
+
+Please enter file name: png_file_details.pdf
+
+ 
+
+-----------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+2.Create simple banking process using class and function
+
+Example class/functions:
+
+new_user
+
+offer
+
+debit_card_issue., etc
+
+ 
+
+-----------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+3.Create student information file (xlsx format) from database.
+
+the table should contain 10 columns minimum
+
+ 
+
+get the list of student's identiy number input from the text file (.txt)
+
+ 
+
+-----------------------------------------------------------------------------------------
+
+ 
+
+4.Read the IP Addresses from the file using regular expression
+
+ 
+
+ 
+
+-----------------------------------------------------------------------------------------
+
+ 
+
+5.Convert number to words range will be 9999
+
+Example:
+
+1000 - one thousand
+
+1750 - one thousand seven hundred fifty
+
+4881 - four thousand eight hundred eighty one
+
+ 
+
+-----------------------------------------------------------------------------------------
+
+ 
+
+6.Text Wrapping by given column range
+
+Example:
+
+ 
+
+Hi, this is sample text. -- (sample text)
+
+9 -- (column range)
+
+ 
+
+output:
+
+ 
+
+123456789
+
+Hi, this -- (right text padding can have spaces)
+
+is sample
+
+text. -- (no space is allowed in left text padding)
+
+ 
+
+------------------------------------------------------------------------------------------
+
+ 
+
+7.Validate the given expression
+
+input: {(([8+3)])*(1+2)])}
+
+ 
+
+------------------------------------------------------------------------------
